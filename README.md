@@ -12,10 +12,13 @@ Here's how Airbnb typically works:
 **Ratings and Reviews:** After the stay, both hosts and guests can leave reviews and ratings for each other, helping to build trust within the community and guide future users in their decision-making.
 
 Airbnb's success lies in its ability to connect travelers with unique and authentic accommodation options that often provide a more personalized and local experience compared to traditional hotels. It has expanded its services to include various offerings such as "Experiences," where hosts can offer guided tours, workshops, and activities to guests, allowing them to experience a destination like a local.
+![Screenshot (295)](https://github.com/deepshikhachadokar/Almabetter-capstone-project/assets/127601650/58057164-1475-4b45-ac8e-423e5ad64265)
+
+
 
 For this project we are analyzing Airbnb’s New York City(NYC) data of 2019. NYC is not only the most famous city in the world but also top global destination for visitors drawn to its museums, entertainment, restaurants and commerce. According to the Office of New York State Comptroller, NYC hosted 66.6 million visitors in 2019.
 
 Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to find out the key metrics that influence the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors. We have analyzed this dataset from different angles and have come up with interesting insights. This can help in making strategic data-driven decisions by the marketing team, finance team and technical team of Airbnb.
 
 
-![Screenshot (294)](https://github.com/deepshikhachadokar/Almabetter-capstone-project/assets/127601650/e240c879-296e-445d-b25f-ea83b56561c9)
+
