@@ -12,7 +12,7 @@ Here's how Airbnb typically works:
 **Ratings and Reviews:** After the stay, both hosts and guests can leave reviews and ratings for each other, helping to build trust within the community and guide future users in their decision-making.
 
 Airbnb's success lies in its ability to connect travelers with unique and authentic accommodation options that often provide a more personalized and local experience compared to traditional hotels. It has expanded its services to include various offerings such as "Experiences," where hosts can offer guided tours, workshops, and activities to guests, allowing them to experience a destination like a local.
-![Screenshot (296)](https://github.com/deepshikhachadokar/Almabetter-capstone-project/assets/127601650/7c322050-269e-417b-b2e2-87def4ff0830)
+![Screenshot (297)](https://github.com/deepshikhachadokar/Almabetter-capstone-project/assets/127601650/dff00c04-9bdf-40ae-9b5b-ffa25747e75a)
 
 
 
