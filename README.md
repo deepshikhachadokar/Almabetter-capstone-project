@@ -1,4 +1,5 @@
-# Almabetter-capstone-project
+# Almabetter-capstone-project-eda
+
 This is the Capstone project which is a part of my Data Science course at AlmaBetter,where I performed EDA (Exploratory Data Analysis) .
 Airbnb is an online marketplace and hospitality service platform that enables people to list, discover, and book lodging accommodations around the world. It was founded in 2008 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk and has since grown into one of the largest and most well-known players in the sharing economy.
 Here's how Airbnb typically works:
